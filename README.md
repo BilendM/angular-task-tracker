@@ -1,5 +1,7 @@
 # AngularCrashCourse
 
+followed Travery Media's Angular Crash Course @https://www.youtube.com/watch?v=3dHNOWTI7H8&t=642s
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
 ## Development server
